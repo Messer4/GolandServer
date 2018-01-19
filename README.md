@@ -1,6 +1,6 @@
 # Go Server
 
-This is a simple web app written in Go
+This is a simple web app on WebSocket written in Go
 
 Just run the following
 
